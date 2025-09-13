@@ -1,0 +1,54 @@
+features of python 
+1. easy syntax
+2. dynamically typed
+3. free to use 
+
+saass (programming language) is a paid resource to use it .it is a 
+
+
+4. python is compilation and interpretation
+
+5. python is higly scalable 
+6. oops
+7. support libraries
+
+
+libraries for data analytics
+1.pandas-> data manipulation
+2.numpy-> numerical package
+3. seaborn -> used for graph
+
+
+
+Day-4
+
+
+1.identifiers
+    special case characters
+2.variables
+3.datatypes
+
+day-5
+
+1.mutable->list,dict,set
+ and unmutable->tuple,strings , and other datatypes 
+2. input/output
+
+day-6
+1.operator
+2.input output operations
+
+day-7
+conditional statements
+transfer keywords
+
+day-8
+loops
+while
+for loops
+
+day-9
+questions
+
+day-10
+datatypes
